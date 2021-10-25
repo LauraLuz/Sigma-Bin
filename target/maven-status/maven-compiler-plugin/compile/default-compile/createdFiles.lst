@@ -1,0 +1,16 @@
+br\com\sigmabin\model\Lixeira.class
+br\com\sigmabin\model\Endereco.class
+br\com\sigmabin\config\SwaggerConfig.class
+br\com\sigmabin\SigmabinApplication.class
+br\com\sigmabin\model\Usuario.class
+br\com\sigmabin\repository\LixeiraRepository.class
+br\com\sigmabin\controller\api\ApiUsuarioController.class
+br\com\sigmabin\model\TipoResiduo.class
+br\com\sigmabin\controller\api\ApiLixeiraController.class
+br\com\sigmabin\repository\ComplexoRepository.class
+br\com\sigmabin\controller\advice\ValidationFieldErro.class
+br\com\sigmabin\repository\UsuarioRepository.class
+br\com\sigmabin\model\Complexo.class
+br\com\sigmabin\controller\advice\ValidationControllerAdvice.class
+br\com\sigmabin\model\Status.class
+br\com\sigmabin\model\Admin.class
